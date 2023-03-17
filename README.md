@@ -1,6 +1,6 @@
 # TryHackMe-investigating_windows
 
-#⏱️ Task 1 : Investigating Windows
+### ⏱️ Task 1 : Investigating Windows
 
 # 1️⃣ Whats the version and year of the windows machine?
 
